@@ -21,6 +21,15 @@ The purpose of the work is to develop the system for the management of books in 
      -Admin can add, delete, update the category, books and user.
    
      -Admin will monitor whole the system.
+     
+**Screenshots**
+
+![eclipse - Eclipse IDE 24-09-2021 09_52_24 (2)](https://user-images.githubusercontent.com/88303324/134812075-0d74f31b-50fa-429b-a2fa-3c6df9951498.png)
+
+![eclipse - Eclipse IDE 24-09-2021 09_52_53 (2)](https://user-images.githubusercontent.com/88303324/134812258-e152de6f-a51b-4de5-a662-2111b02a3bb9.png)
+
+![eclipse - Eclipse IDE 24-09-2021 09_53_34 (2)](https://user-images.githubusercontent.com/88303324/134812375-e8e1d8f1-3c68-425c-b811-173bb0158510.png)
+
 
 
 
