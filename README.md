@@ -30,7 +30,12 @@ The purpose of the work is to develop the system for the management of books in 
 
 ![eclipse - Eclipse IDE 24-09-2021 09_53_34 (2)](https://user-images.githubusercontent.com/88303324/134812375-e8e1d8f1-3c68-425c-b811-173bb0158510.png)
 
+## Contribution
+Contributions are what makes store the data of the book shop to go such user data and book details for future enhancement.Any contributions you make are **greatly appreciated**.
 
+## Contact
+Email      - shenbagavallidowani@gmail.com
+Project id - https://github.com/ShenbagavalliGovindharasu/FrontEnd
 
 
    
